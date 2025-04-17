@@ -1,0 +1,7 @@
+{
+    "go.goroot": "/home/bdavis/.local/share/mise/installs/go/1.24.2",
+    "python.defaultInterpreterPath": "/home/bdavis/.local/share/mise/installs/python/3.12.9/bin/python",
+    "go.alternateTools": {
+        "go": "/home/bdavis/.local/share/mise/shims/go"
+    }
+}
