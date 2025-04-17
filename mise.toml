@@ -1,6 +1,6 @@
 [tools]
-go = "prefix:1.24"
-python = "3.12"
+go = "prefix:1.24" # 1.24.2
+python = "3.12"    # 3.12.9
 
 [tasks]
 init = "go mod init $(basename $PWD)"
